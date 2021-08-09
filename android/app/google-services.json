@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119197376167",
+    "project_id": "testilyess",
+    "storage_bucket": "testilyess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119197376167:android:54640f825d6cde1e040582",
+        "android_client_info": {
+          "package_name": "com.example.test_ilyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119197376167-2ua44kh43oubmm7a3tsdgph908qc042c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOquwQ1JlTG7bCepzuyaGsIdBpAYIkbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119197376167-2ua44kh43oubmm7a3tsdgph908qc042c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
